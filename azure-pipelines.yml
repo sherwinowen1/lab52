@@ -20,3 +20,5 @@ steps:
 
 - script: cat file1
   displayName: output GH file contents
+
+- script: cat file1
